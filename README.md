@@ -17,8 +17,18 @@ yarn dev
 -  Airtable
 -  Jotai
 
+#### Menu
+
 ![menu](./public/menu.png)
 
-![menu](./public/category.png)
+#### Category
 
-![menu](./public/cart.png)
+![category](./public/category.png)
+
+#### Cart
+
+![cart](./public/cart.png)
+
+#### Airtable table
+
+![cart](./public/airtable.png)
